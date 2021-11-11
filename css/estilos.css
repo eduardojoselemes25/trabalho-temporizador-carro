@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    padding: 30px;
+    color: red;
+    font-size: 35px;
+}
+
+.box-imagem-carro {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.box-imagem-carro img {
+    padding: 20px;
+}
+
+h2 {
+    color: green;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.box-descricao-carro li {
+    padding-left: 20px;
+}
